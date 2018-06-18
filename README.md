@@ -1,4 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad4ef0b8ceda4b18922be3982e929de9)](https://www.codacy.com/app/sudarsan.a/spring-boot-docker?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=isudarsan/spring-boot-docker&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.com/isudarsan/spring-boot-docker.svg?branch=master)](https://travis-ci.com/isudarsan/spring-boot-docker)
 
 # spring-boot-docker
 Dockerizing Spring Boot application
